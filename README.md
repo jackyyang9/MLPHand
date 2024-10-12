@@ -9,7 +9,7 @@ This is the official GitHub repository for the paper "MLPHand: Real-Time Multi-V
 The code will be released soon in next few weeks!
 
 Todo list:
-  1. - [x] Share the convex decomposition matrix.
+  1. - [x] Share the convex decomposition matrix. See `Diag_Vertex.pth`
   2. - [ ] Training/Inference code of stage 1
   3. - [ ] Training/Inference code of stage 2
 
