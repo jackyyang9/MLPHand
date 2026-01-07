@@ -14,7 +14,7 @@
     ·
     <a><strong>Zhen Shen</strong></a>
     .
-    <a><strong>Zhaosin Fan</strong></a>
+    <a><strong>Zhaoxin Fan</strong></a>
     .
   </p>
   <h2 align="center">ECCV 2024</h2>
